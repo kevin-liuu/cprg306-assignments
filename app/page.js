@@ -14,6 +14,9 @@ export default function Home() {
       <div className="text-center hover:text-cyan-400 hover:underline p-2">
         <Link href="/week3">week3</Link>
       </div>
+      <div className="text-center hover:text-cyan-400 hover:underline p-2">
+        <Link href="/week4">week4</Link>
+      </div>
     </main>
   );
 }
